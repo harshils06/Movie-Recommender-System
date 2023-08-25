@@ -32,8 +32,11 @@ This interface makes the recommender system easily accessible to users without t
 5) Input Movie Title: Enter the title of a movie you enjoyed into the provided input field.
 View Recommendations:
 Receive a list of recommended movies along with their posters fetched based on content similarity with the input movie.
+### Results
+[result]()
 ### Note
 The similarity.pkl is not included in the files because it exceeds the github limit of 100 mb. Hence, before running the app.py file, make sure you run the jupyter file in order to download the similarity.pkl file.
+
 
 
 
